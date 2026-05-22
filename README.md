@@ -200,3 +200,32 @@ Next step
 
 - This project is best suited for demos, prototypes, and travel AI experiments.
 - Model-generated travel prices and destination advice should be reviewed before using them in a real production travel workflow.
+
+
+# 🌐 Live Demo
+
+Add your deployed Streamlit link:
+
+```text
+https://akhilaboddula16-luxury-travel-ai-app-iw8exg.streamlit.app/
+```
+
+---
+
+# 👩‍💻 Author
+
+Akhila Boddula
+
+AI Engineer | Generative AI | Agentic AI | Multimodal AI
+
+GitHub:
+
+https://github.com/akhilaboddula16
+
+LinkedIn:
+
+https://www.linkedin.com/in/akhila-boddula
+
+Streamlit (live demo)
+
+https://akhilaboddula16-luxury-travel-ai-app-iw8exg.streamlit.app/
